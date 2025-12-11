@@ -169,8 +169,6 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha.vermaiitkgp@ac.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vakanksha98)
 
-**Phone**: 91-8528602066
-
 </div>
 
 ---
