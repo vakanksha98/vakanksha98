@@ -18,7 +18,7 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 
 ### **Master of Technology - Computer Science & Data Processing**
 **Indian Institute of Technology, Kharagpur** | Expected 2026
-- CGPA: 7.60/10
+- CGPA: 7.78/10
 - Focus: Machine Learning, Data Science, Optimization
 
 ### **Master of Science - Mathematics**
