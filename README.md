@@ -30,12 +30,12 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 
 ## 🔥 Notable Achievements
 
-✅ **CSIR-NET JRF 2024** - AIR 137 (Junior Research Fellowship in Mathematical Sciences)
-✅ **CSIR-NET 2023** - AIR 90 (Assistant Professor eligibility)
-✅ **GATE 2024** - AIR 299 (Among 13,000+ candidates in Mathematics)
-✅ **LLM Fine-tuning Expert** - Implemented LoRA, PEFT, QLoRA with 60% cost reduction
-✅ **ML Solutions** - CNN achieving 75% accuracy, Churn prediction with AUC 0.85
-✅ **Problem Solver** - Strong in algorithm design and system optimization
+- 🏆 **CSIR-NET JRF 2024** - AIR 137 (Junior Research Fellowship in Mathematical Sciences)
+- 🏆 **CSIR-NET 2023** - AIR 90 (Assistant Professor eligibility)
+- 🏆 **GATE 2024** - AIR 299 (Among 13,000+ candidates in Mathematics)
+- ✅ **LLM Fine-tuning Expert** - Implemented LoRA, PEFT, QLoRA with 60% cost reduction
+- ✅ **ML Solutions** - CNN achieving 75% accuracy, Churn prediction with AUC 0.85
+- ✅ **Problem Solver** - Strong in algorithm design and system optimization
 
 ---
 
@@ -55,20 +55,13 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 ### 📊 Machine Learning Expertise
 - **Supervised Learning**: Regression, Classification, Ensemble Methods
 - **Deep Learning**: CNNs, RNNs, LLM Fine-tuning
-- **Optimization**: Particle Swarm Optimization (PSO), Adam, GridSearchCV, Hyperparameter Tuning
-- **Data Science**: Feature Engineering, Data Preprocessing, Model Evaluation, RFM Analysis
-- **Specialized**: CLTV Prediction, Churn Analytics, Time Series Forecasting
+- **Optimization**: Particle Swarm Optimization (PSO), Adam, GridSearchCV
+- **Data Science**: Feature Engineering, RFM Analysis, CLTV Prediction
 
 ### 🛠️ Tools & Technologies
 - **Platforms**: Git/GitHub, MySQL, Google Colab, Jupyter Notebook
 - **Development**: VS Code, Linux, Postman
-- **Data Visualization**: Matplotlib, Seaborn
 - **Cloud**: Google Colab for ML training
-
-### 🧮 Mathematical Foundation
-- Linear Algebra | Calculus | Probability & Statistics
-- Graph Theory | Optimization Theory
-- Advanced Algorithm Design
 
 ---
 
@@ -84,13 +77,6 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 **Department of Mathematics, IIT Kharagpur** | Aug - Nov 2025
 - Mentored **100+ students** in advanced optimization algorithms
 - Taught linear programming, gradient methods, and algorithm design
-- Created educational materials for algorithm concepts
-
-### **Previous Experience - Toddle**
-- Built **RAG system** for internal documentation with **70% latency reduction**
-- Developed **scalable internal tooling** to improve team productivity
-- Worked on **microservices architecture** using modern tech stack
-- Created **chatib.in** - An AI-powered chatbot platform
 
 ---
 
@@ -101,52 +87,21 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 - Implemented **LoRA, PEFT, QLoRA** fine-tuning techniques on **GPT-2** and **LLaMA-2**
 - Achieved **60% cost reduction** in training while maintaining performance
 - Engineered domain-specific datasets and validation pipelines
-- Optimized model performance across multiple NLP tasks
 
 ### **Brain Tumor Classification using CNN & PSO**
 *TensorFlow, Particle Swarm Optimization | Aug - Nov 2025*
 - Architected **5-block CNN** achieving **75% accuracy**
 - Outperformed Adam optimizer using **Particle Swarm Optimization** (F1: 0.76 vs 0.74)
-- Proposed hybrid optimization framework combining PSO with attention mechanisms
 
 ### **CLTV Prediction & Churn Analytics**
 *XGBoost, Random Forest, RFM Analysis | Jun - Aug 2025*
 - Built end-to-end CLTV system on 276K transactions
-- Implemented **4-tier customer segmentation** using RFM methodology
-- Developed churn prediction models with **AUC 0.85** for proactive retention
+- Developed churn prediction models with **AUC 0.85**
 
 ### **Rainfall Prediction with Random Forest**
 *Scikit-Learn, GridSearchCV | Aug - Nov 2024*
 - Developed production-ready model with **80% test accuracy**
 - Optimized hyperparameters using GridSearchCV and 5-fold cross-validation
-- Resolved severe class imbalance through strategic down-sampling and stratified splitting
-
----
-
-## 📚 Current Focus & Learning Goals
-
-### 🎯 Active Learning Areas
-- Advanced **LLM Fine-tuning** techniques (LoRA, QLoRA, PEFT)
-- **System Design Patterns** for scalable architectures
-- **Data Structures & Algorithms** for FAANG interviews
-- **Distributed Systems** and backend optimization
-
-### 🔬 Interview Preparation
-- Solving **Blind 75** and **NeetCode 75** problems
-- Deep diving into company-specific questions (Urban Company, PayPal, DigitalOcean)
-- Mastering system design and LLD patterns
-- Backend optimization and scalability challenges
-
----
-
-## 🎮 Hobbies & Interests
-
-- 🧠 **Problem Solving** - Tackling complex algorithmic and ML challenges
-- ♟️ **Chess** - Strategic thinking and pattern recognition
-- ✈️ **Travel Planning** - Exploring new places and cultures
-- 📚 **Research** - Staying at the forefront of ML/AI advances
-- 🎯 **Interview Prep** - Helping others in their tech journey
-- 📖 **Learning** - Continuous upskilling in new technologies
 
 ---
 
@@ -162,25 +117,10 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vakanksha98)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vakanksha98)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha.vermaiitkgp@ac.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha.verma@iitkgp.ac.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vakanksha98)
-
-</div>
-
----
-
-## 💡 What I Bring
-
-✨ **Technical Excellence** - Strong foundations in ML, AI, and backend engineering
-✨ **Research Mindset** - Proven ability to implement cutting-edge techniques (LoRA, PEFT, QLoRA)
-✨ **Problem Solver** - Competitive programming and algorithm optimization experience
-✨ **Team Player** - Experience mentoring students and collaborating on projects
-✨ **Continuous Learner** - Always exploring new technologies and methodologies
-✨ **Production-Ready Mindset** - Building scalable, efficient, and optimized systems
 
 ---
 
@@ -188,7 +128,7 @@ I'm **Akanksha Verma**, a passionate **Backend Software Engineer** and **ML/AI R
 
 ### "Innovation happens at the intersection of curiosity, hard work, and persistence." 🚀
 
-⭐ If you find my work interesting, feel free to **star** this repo and reach out!
+⭐ Feel free to **star** this profile and reach out!
 
 🤝 **Open to**: Collaborations | Research projects | Internships | Job opportunities
 
